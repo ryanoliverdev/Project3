@@ -1,0 +1,6 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\oryan\CLionProjects\MenuMaker
+-- Found SFML 2.5.1 in C:/SFML/lib/cmake/SFML
+-- Found TGUI 0.9.2 in C:/TGUI/lib/cmake/TGUI
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/oryan/CLionProjects/MenuMaker/cmake-build-debug

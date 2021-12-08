@@ -1,0 +1,3 @@
+C:/Users/oryan/CLionProjects/MenuMaker/cmake-build-debug/CMakeFiles/MenuMaker.dir
+C:/Users/oryan/CLionProjects/MenuMaker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oryan/CLionProjects/MenuMaker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
