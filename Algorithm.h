@@ -1,7 +1,3 @@
-//
-// Created by oryan on 12/7/2021.
-//
-
 #ifndef MENUMAKER_ALGORITHM_H
 #define MENUMAKER_ALGORITHM_H
 
